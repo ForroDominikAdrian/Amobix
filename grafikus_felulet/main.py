@@ -14,9 +14,9 @@ oszlop = 3
 cella_meret = szelesseg // oszlop
 
 screen = pygame.display.set_mode((szelesseg, magassag))
-pygame.display.set_caption("Amőba")
+pygame.display.set_caption("Pymobix")
 
-# Betűtípus a pontszámokhoz
+# Betűtípus
 font = pygame.font.SysFont("Arial", 30, bold=True)
 
 # Pontszámok és állapotok
